@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/77688036/121788178-9bdc2080-cba1-11eb-8b2e-f30a2a799387.png) 
 
-<strong>Ideia:</strong> Exibir dados preenchidos pelo usuário. Como usar:
+<strong>Ideia:</strong> exibir dados preenchidos pelo usuário. Funcionamento:
  - Informe um nome, um e-mail e uma senha, e clique em exibir;
  - Será exibido um alerta, com os dados informados;
  - Todos os dados devem ser preenchidos. Caso contrário será exibido uma mensagem de erro.
