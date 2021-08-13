@@ -1,7 +1,7 @@
 # MINI-LOGIN
  **Meu primeiro formulário web, aplicando HTML, CSS e JAVASCRIPT, utilizando o VSCode.**
  
- <a href="https://gileadeteixeira.github.io/tip-calculator-app/" target="_blank" ><img width="200px" align="center" src="https://user-images.githubusercontent.com/77688036/129355932-3e59820f-9c96-4357-8697-4b96eb126702.png" alt="qr_code_splitter"></a> **Clique, toque ou aponte a câmera.**
+ <a href="https://gileadeteixeira.github.io/mini-login/" target="_blank" ><img width="200px" align="center" src="https://user-images.githubusercontent.com/77688036/129355932-3e59820f-9c96-4357-8697-4b96eb126702.png" alt="qr_code_splitter"></a> **Clique, toque ou aponte a câmera.**
 
 
 ![image](https://user-images.githubusercontent.com/77688036/121788178-9bdc2080-cba1-11eb-8b2e-f30a2a799387.png) 
