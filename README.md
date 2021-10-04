@@ -4,7 +4,7 @@
  <a href="https://gileadeteixeira.github.io/mini-login/" target="_blank" ><img width="200px" align="center" src="https://user-images.githubusercontent.com/77688036/129355932-3e59820f-9c96-4357-8697-4b96eb126702.png" alt="qr_code_splitter"></a> **Clique, toque ou aponte a câmera.**
 
 
-![image](https://user-images.githubusercontent.com/77688036/121788178-9bdc2080-cba1-11eb-8b2e-f30a2a799387.png) 
+![screenshot](https://user-images.githubusercontent.com/77688036/135885503-7cc9a004-1dfe-4141-9560-a05efa92dbcd.png) 
 
 <strong>Ideia:</strong> exibir dados preenchidos pelo usuário. Funcionamento:
  - Informe um nome, um e-mail e uma senha, e clique em exibir;

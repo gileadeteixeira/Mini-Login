@@ -1,21 +1,36 @@
-.body{
-    background-color: black;
+:root{
+    --green: #1b6939;
+    --white: #ffffff;
+    --light-grey: #eeeeee;
+    --black: #131313;
+}
+
+html, body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    background-color: var(--black);
     font-family: Arial;
+    width: 100%;
 }
+
 .area{
-    background: none;
-    flex: 1;
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 300px;
-    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 500px;
 }
-.area input[type = "text"], .area input[type = "password"]{
+
+.area input{
     border-radius: 20px;
     border: 0;
-    background-color: #EEEEEE;
+    background-color: var(--light-grey);
     display: block;
     padding: 10px;
     margin: 15px auto;
@@ -24,19 +39,22 @@
     color: black;
     width: 70%;
 }
+
 .area input[type = "submit"]{
-    border-radius: 20px;
-    border: 0;
     background: none;
-    display: block;
-    padding: 10px;
-    margin: 15px auto;
-    text-align: center;
-    outline: none;
-    color: white;
-    width: 70%;
-    border: 2px solid rgb(27, 105, 57);
+    color: var(--white);
+    width: 73.5%;
+    border: 2px solid var(--green);
 }
-.area input[type = "submit"]:hover{
-    background-color: rgb(27, 105, 57);
+
+@media (pointer: fine) {
+    .area input[type = "submit"]:hover{
+        background-color: var(--green);
+        cursor: pointer;
+    }
 }
+
+.area input[type = "submit"]:active{
+    background-color: var(--green);
+}
+
